@@ -29,8 +29,5 @@ The Jupyter notebook will automatically be opened in your browser.
 
 Pretrained models are available on the `models/` folder.
 
-## Author
-Matheus Freire Rabelo
-
 ## License
 MIT
