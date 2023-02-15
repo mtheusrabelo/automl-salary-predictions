@@ -30,4 +30,4 @@ The Jupyter notebook will automatically be opened in your browser.
 Pretrained models are available on the `models/` folder.
 
 ## License
-MIT
+UNLICENSED

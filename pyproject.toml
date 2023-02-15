@@ -2,8 +2,7 @@
 name = "automl-salary-prediction"
 version = "1.0.0"
 description = "Using Auto ML to predict salaries based on property infos"
-authors = ["Matheus Rabelo <matheusfreirerabelo@gmail.com>"]
-license = "MIT"
+license = "UNLICENSED"
 
 [tool.poetry.dependencies]
 python = "^3.7.5"
